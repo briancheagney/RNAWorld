@@ -18,6 +18,10 @@
 		{
 			"Name": "MeshTerrainMode",
 			"Enabled": true
+		},
+		{
+			"Name": "WaterExtras",
+			"Enabled": true
 		}
 	]
 }
